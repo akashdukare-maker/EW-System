@@ -17,7 +17,7 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ### Signal generation
 
-![Signal generation](results/td_plot.png)
+![Signal generation](Results/timedomain_signal.jpeg)
 
 ### FFT Analysis
 
