@@ -32,7 +32,7 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 ![Jamming](Results/jammed_signal.jpeg)
 
 ### Results
-![Results](Results/jamming_plot.jpeg)
+![Results](Results/jamming.jpeg)
 
 ### spectrum
 ![spectrum](Results/spectrogram.jpeg)
