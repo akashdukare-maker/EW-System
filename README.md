@@ -25,14 +25,14 @@ Adaptive Electronic Warfare (EW) system for signal detection and jamming using D
 
 ### Signal Detection
 
-![Signal Detection](results/sd_plot.png)
+![Signal Detection](Results/detected_signal.jpeg)
 
 ### Jamming
 
-![Jamming](results/jamming_plot.png)
+![Jamming](Results/jammed_signal.jpeg)
 
 ### Results
-![Results](results/results_plot.png)
+![Results](Results/jamming_plot.jpeg)
 
 ### spectrum
 ![spectrum](Results/spectrogram.jpeg)
